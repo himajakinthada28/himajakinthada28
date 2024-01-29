@@ -11,7 +11,8 @@
 - **Algorithm Engineer Intern @UVeye** <i>--------New Jersey,US (Jan 2024- Current)</i>
 - **Application Developer @TCS** <i>---------------Benguluru,India (Aug 2021-Nov 2022)</i>
 - **Data Science Intern  @Daten&Wissen** <i>-----Mumbai,India (Feb 2020- Aug 2020)</i>
-----------
+  
+<h2 align="left">🌍 Connect!!</h2>
 
 📧 **Email:** [himajakinthada28@gmail.com](mailto:himajakinthada28@gmail.com)  
 🔗 **LinkedIn:** [himaja-kinthada](https://www.linkedin.com/in/himaja-kinthada/)   
